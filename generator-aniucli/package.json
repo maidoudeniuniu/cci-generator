@@ -1,0 +1,29 @@
+{
+  "name": "generator-aniucli",
+  "version": "1.0.0",
+  "description": "aniucli,generator,脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aniucli",
+    "generator",
+    "脚手架"
+  ],
+  "files": [
+    "app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^5.4.2"
+  },
+  "devDependencies": {
+    "download-git-repo": "^3.0.2",
+    "install": "^0.13.0",
+    "npm": "^8.5.0",
+    "shelljs": "^0.8.5",
+    "yosay": "^2.0.2"
+  }
+}
